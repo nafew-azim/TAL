@@ -5,11 +5,7 @@ Code for **TAL** (*Tripartite Adaptive Loss*): a metacognitive multi-agent syste
 
 TAL coordinates specialized experts with adaptive loss-guided inference, episodic memory, and self-monitoring to improve in-context learning and collaborative task execution.
 
-This repository includes:
-
-* Full implementation and reproducibility on a GSM8K small subset with results
-
-Here are the Hugging Face links to the datasets we used:
+Here are the Hugging Face links to the datasets :
 
 ### General Reasoning & Benchmark Datasets
 
