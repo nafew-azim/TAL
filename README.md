@@ -7,8 +7,6 @@ TAL coordinates specialized experts with adaptive loss-guided inference, episodi
 
 This repository includes:
 
-* Full implementation of the TAL framework
-* Configurations for TAL variants (♠, ♢, ♡, ♣)
 * Full implementation and reproducibility on a GSM8K small subset with results
 
 Here are the Hugging Face links to the datasets we used:
