@@ -1,0 +1,44 @@
+{
+    "creators": [
+        {
+            "name": "Nafew Azim",
+            "affiliation": "North South University",
+            "orcid": "0009-0006-1396-2550",
+            "type": "ProjectLeader"
+        },
+        {
+            "name": "Abrar Ur Alam",
+            "affiliation": "North South University",
+            "type": "ProjectMember"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Nabeel Muhammed",
+            "affiliation": "North South University",
+            "type": "Supervisor"
+        },
+        {
+            "name": "Abdur Kalam Al Azad",
+            "affiliation": "North South University",
+            "type": "Supervisor"
+        }
+    ],
+    "title": "TAL: Metacognitive Multi-Agent System with Tripartite Adaptive Loss for In-Context Learning and Loss-Guided Inference in Collaborative Task Execution",
+    "description": "Code for the paper “TAL: Metacognitive Multi-Agent System with Tripartite Adaptive Loss for In-Context Learning and Loss-Guided Inference in Collaborative Task Execution” submitted to PLOS One 2026.",
+    "version": "1.0.0",
+    "access_right": "open",
+    "keywords": [
+        "Metacognition",
+        "Multi-Agent Systems",
+        "Tripartite Adaptive Loss",
+        "In-Context Learning",
+        "Neuro-Symbolic Memory",
+        "Collaborative Reasoning",
+        "Biologically Inspired AI",
+        "Interpretability"
+    ],
+    "license": "mit",
+    "upload_type": "software",
+    "language": "eng"
+}
