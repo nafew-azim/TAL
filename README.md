@@ -1,7 +1,7 @@
 
 # TAL
 
-Code for **TAL** (*Tripartite Adaptive Loss*): a metacognitive multi-agent system.
+Code for **TAL** : a metacognitive multi-agent system.
 
 TAL coordinates specialized experts with adaptive loss-guided inference, episodic memory, and self-monitoring to improve in-context learning and collaborative task execution.
 
