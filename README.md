@@ -5,6 +5,8 @@ Code for **TAL** : a metacognitive multi-agent system.
 
 TAL coordinates specialized experts with adaptive loss-guided inference, episodic memory, and self-monitoring to improve in-context learning and collaborative task execution.
 
+---
+
 # Key Contributions
 
 Metacognitive Monitoring: Tripartite loss metrics for real-time assessment: Balance (weighted embedding variance with entropy regularization), Criticality (cosine similarity for contradiction detection), and Temporal Coherence (LSTM hidden state analysis for sequence consistency).
